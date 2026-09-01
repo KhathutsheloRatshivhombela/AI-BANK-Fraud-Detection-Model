@@ -3,6 +3,6 @@ Fraudulent transactions are a growing challenge for fintech companies. Our model
 
 ## Data Source
 The primary dataset used for this project was sourced from Kaggle:
-* **Dataset Link:** 
+* **Dataset Link:** https://www.kaggle.com/datasets/ranjitmandal/fraud-detection-dataset-csv
 
 
