@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+# Only needed for the optional ARIMA time-series forecast (forecast_time_series):
+statsmodels
