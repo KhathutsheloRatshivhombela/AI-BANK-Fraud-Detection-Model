@@ -5,3 +5,5 @@ scikit-learn
 joblib
 # Only needed for the optional ARIMA time-series forecast (forecast_time_series):
 statsmodels
+# optional, only for: python AI_FD_TIMESERIES_SAMPLE.py --plot
+matplotlib
